@@ -30,11 +30,7 @@ Pour accéder au programme du module image, suivez ces étapes :
    - Appuyez sur ECHAPPE pour fermer la fenêtre.
    - Appuyez sur T pour zoomer.
    - Appuyez sur G pour dézoomer.
-
-## Exemples de Résultats
-
-![Avatar Pixel Art](data/exemple.png)
-
+  
 ## Structure du Projet
 
 - `src/` : Contient les fichiers source.
@@ -42,6 +38,16 @@ Pour accéder au programme du module image, suivez ces étapes :
 - `docs/` : Documentation et exemples d'avatars.
 - `data/` : Répertoire pour stocker les données nécessaires à l'exécution du programme (par exemple, fichiers de configuration, ressources graphiques, etc.).
 - `bin/` : Contient les fichiers binaires générés lors de la compilation (par exemple, exécutable principal).
+
+## Exemples de Résultats
+
+![Avatar Pixel Art](data/exemple.png)
+
+## Vidéo de Prévisualisation
+
+[![Preview Video](https://img.youtube.com/vi/VK_gGpmT_Hk/0.jpg)](https://www.youtube.com/watch?v=VK_gGpmT_Hk)
+
+Cliquez sur l'image ci-dessus pour regarder la vidéo de prévisualisation.
 
 ## Licence
 
