@@ -33,7 +33,7 @@ Pour accéder au programme du module image, suivez ces étapes :
 
 ## Exemples de Résultats
 
-![Avatar Pixel Art](data/image_affiche.ppm)
+![Avatar Pixel Art](data/exemple.ppm)
 
 ## Structure du Projet
 
